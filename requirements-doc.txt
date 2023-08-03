@@ -1,0 +1,8 @@
+mkdocs-material
+pillow
+cairosvg
+mkdocstrings 
+mkdocstrings-python
+openai
+pydantic
+pytest
